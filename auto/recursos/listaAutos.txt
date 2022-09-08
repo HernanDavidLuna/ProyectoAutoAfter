@@ -1,0 +1,2 @@
+a1|Escarabajo|Coleccion|4|2|m3|
+a2|Gol Trend|Sedan|4|5|m2|

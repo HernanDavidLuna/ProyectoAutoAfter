@@ -1,0 +1,3 @@
+m1|Zetec|Nafta|2.0|220Hp|280Nm|
+m2|Hemi|Nafta|5.8|700Hp|900Nm|
+m3|Pikachu|GNC|4.2|500Hp|750Nm|
